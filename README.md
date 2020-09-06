@@ -30,3 +30,6 @@ messages:
   # Message when server is in bot attack mode and does not let anyone else in the server
   BotAttackMode: "&4Bot attack mode is currently enabled\n&6You can bypass this by going to https://whitelist.moobot.dev"
   ```
+  
+## Backend
+You can find the backend source code here: https://github.com/moom0o/AntiVPNWhitelistBackend
